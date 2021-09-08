@@ -12,13 +12,15 @@ Recognizing Vehicle Image Plate Number and through API Call we have fetched Data
 
 #### Library:
 
-##### 1. numpy 
-##### 2. opencv-python
-##### 3. matplotlib
-##### 4. easyocr
-##### 5. xmltodict
-##### 6. requests
+##### 1. Numpy      - numpy 
+##### 2. OpenCV     - opencv-python
+##### 3. MatPLotLib - matplotlib
+##### 4. Easyocr    - easyocr
+##### 5. Xmltodict  - xmltodict
+##### 6. Requests   - requests
 
-##### -> check your selinux in RHEL-8 it must be permessive.
-##### -> check your httpd server must be running.
-##### -> make sure you have given sudo power to apache server.
+#### Permissions Allowed: 
+
+##### ❗ Check your selinux in RHEL-8 it must be permessive.
+##### ❗ Check your httpd server must be running.
+##### ❗ Make sure you have given sudo power to apache server.
